@@ -1,8 +1,8 @@
 ### Hi, I'm Grace • she/her • New York, NY
 <img src="https://raw.githubusercontent.com/gkmurray124/gkmurray124/master/GM-readme-header.png" alt="banner that says Grace Murray - software engineer & data analyst">
 
-💻 Check out my <a href="https://gracemurray.cargo.site/" target="_blank">portfolio!</a><br>
-💌 Reach out to me: gkmurray124@gmail.com <br>
+💻 Check out my <a href="https://gracemurray.cargo.site/">portfolio!</a><br>
+💌 Reach out to me <a href="gkmurray124@gmail.com">via email!</a><br>
 🤝 Connect with me on <a href="https://www.linkedin.com/in/gracekmurray/">LinkedIn</a>!<br>
 🎧 Head to <a href="https://open.spotify.com/user/gracekmurray">my Spotify</a> to see what I've been listening to! 
 <!--
