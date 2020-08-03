@@ -1,5 +1,5 @@
 ### Hi, I'm Grace 👩‍💻
-
+<img src="https://raw.githubusercontent.com/gkmurray124/gkmurray124/master/GM-readme-header.png" alt="banner that says Grace Murray - software engineer & data analyst">
 I'm a software engineer and data analyst based in New York, NY. 
 
 <!--
