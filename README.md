@@ -1,6 +1,10 @@
-### Hi, I'm Grace 👩‍💻♐️
+### Hi, I'm Grace 👩‍💻♐️ • she/her 
 <img src="https://raw.githubusercontent.com/gkmurray124/gkmurray124/master/GM-readme-header.png" alt="banner that says Grace Murray - software engineer & data analyst">
 
+💌 Reach out to me: gkmurray124@gmail.com <br>
+🤝 Connect with me on LinkedIn: https://www.linkedin.com/in/gracekmurray/ <br>
+💻 Check out my portfolio: https://gracemurray.cargo.site/ <br>
+🎧 Head to my Spotify to see what I've been listening to: https://open.spotify.com/user/gracekmurray
 <!--
 **gkmurray124/gkmurray124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
